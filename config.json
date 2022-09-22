@@ -18,17 +18,17 @@
     "nodeLabel": "Entités"
   },
   "features": {
-    "search": true,
-    "groupSelectorAttribute": true,
-    "hoverBehavior": "none"
+    "search": false,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
-    "imageAttribute": true
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "line",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
