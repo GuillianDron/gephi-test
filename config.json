@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Hugues El Crackos"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "KPMG Innovation Lab"
   },
   "legend": {
     "edgeLabel": "test",
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "image"
   },
   "sigma": {
     "drawingProperties": {
