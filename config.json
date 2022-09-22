@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://my.motherbase.ai/media/teams/kpmg-innovation-lab/20220916104028232871.kpmg-innovation-lab-cropped.gif",
+    "file": "",
     "link": "",
     "text": "Guillian"
   },
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": "activity",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
