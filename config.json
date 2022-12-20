@@ -18,13 +18,13 @@
     "nodeLabel": "Entités"
   },
   "features": {
-    "search": false,
-    "groupSelectorAttribute": "type",
-    "hoverBehavior": "default"
+    "search": true,
+    "groupSelectorAttribute": "activity",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": "Label"
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
